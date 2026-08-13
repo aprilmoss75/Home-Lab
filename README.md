@@ -8,7 +8,7 @@ This repository documents the architecture, hardware, and configurations of my p
 ## 🌐 Network Diagram
 Below is the visual layout of my network architecture:
 
-![Home Lab Architecture](./Documents/Home Lab Project/network-diagram.png)
+![Home Lab Architecture](./Documents/Home_Lab_Project/network-diagram.png)
 
 ## 🖥️ Hardware Specifications
 * **Host 1 (Primary Server):** Mini PC / Custom Build
